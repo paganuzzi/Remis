@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Enlazar a Remis Ola
+Type=Link
+URL=http://remis.local/
+Icon=/var/www/html/remis/public/images/logo.png
+Name[es_AR]=Remis Ola
